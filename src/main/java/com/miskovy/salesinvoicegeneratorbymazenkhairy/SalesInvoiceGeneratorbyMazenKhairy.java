@@ -5,10 +5,6 @@
 
 package com.miskovy.salesinvoicegeneratorbymazenkhairy;
 
-/**
- *
- * @author El3atty
- */
 public class SalesInvoiceGeneratorbyMazenKhairy {
 
     public static void main(String[] args) {
