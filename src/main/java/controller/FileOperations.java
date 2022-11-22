@@ -239,7 +239,7 @@ public class FileOperations implements ActionListener, ListSelectionListener {
         String customer = invoiceDialog.getCustNameField().getText();
         int num = frame.getNextInvoiceNum();
         try {
-            String[] dateParts = date.split("/");  
+            String[] dateParts = date.split("-");
             if (dateParts.length < 3) {
                 JOptionPane.showMessageDialog(frame, "Wrong date format", "Error", JOptionPane.ERROR_MESSAGE);
             } else {
