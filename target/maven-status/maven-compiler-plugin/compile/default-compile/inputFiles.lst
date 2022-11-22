@@ -1,2 +1,5 @@
 E:\Miskovy\Work\Java\Projects\SalesInvoiceGeneratorbyMazenKhairy\src\main\java\com\miskovy\salesinvoicegeneratorbymazenkhairy\SalesInvoiceGeneratorbyMazenKhairy.java
-E:\Miskovy\Work\Java\Projects\SalesInvoiceGeneratorbyMazenKhairy\src\main\java\frames\MainFrame.java
+E:\Miskovy\Work\Java\Projects\SalesInvoiceGeneratorbyMazenKhairy\src\main\java\Model\FileOperations.java
+E:\Miskovy\Work\Java\Projects\SalesInvoiceGeneratorbyMazenKhairy\src\main\java\View\MainFrame.java
+E:\Miskovy\Work\Java\Projects\SalesInvoiceGeneratorbyMazenKhairy\src\main\java\Model\InvoiceHeader.java
+E:\Miskovy\Work\Java\Projects\SalesInvoiceGeneratorbyMazenKhairy\src\main\java\Model\InvoiceLine.java
